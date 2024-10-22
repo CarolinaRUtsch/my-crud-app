@@ -47,7 +47,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/my-crud-app.git
+git clone https://github.com/CarolinaRUtsch/my-crud-app
 cd my-crud-app
 ```
 
